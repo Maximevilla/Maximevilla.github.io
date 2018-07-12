@@ -9,8 +9,8 @@ This book will explain the cooking in all its simplicity. Starting from recipes 
 
 The author has worked with the greatest chefs and studied in the best cooking school in the world.
 
-I did this book like the one I would have loved to have when I started in this field. Things are simpler than we think, we just need to have the right way of thinking the field. That's the purpose of it.
-
+>I did this book like the one I would have loved to have when I started in this field. Things are simpler than we think, we just need to have the right way of thinking the field. That's the purpose of it.
+>
 #### Here are some of the dishes you could learn to prepare.
 
 ![](/img/vitchakorn-koonyosying-527301-unsplash.jpg)
