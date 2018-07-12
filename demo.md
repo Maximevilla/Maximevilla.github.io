@@ -12,5 +12,5 @@ The author has worked with the greatest chefs and studied in the best cooking sc
 Before entering in the world of IT I was a cook. I did this book like the one I would have loved to have when I started in this field. Things are simpler than we think, we just need to have the right way of thinking the field. That's the purpose of it.
 
 
-![](/img/isakmp_dump.png)
+![](/img/vitchakorn-koonyosying-527301-unsplash.jpg)
 
