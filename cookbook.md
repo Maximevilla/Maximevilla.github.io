@@ -15,7 +15,7 @@ The author has worked with the greatest chefs and studied in the best cooking sc
 
 ![](/img/vitchakorn-koonyosying-527301-unsplash.jpg)
 
-![](/img/AdobeStock_80822565.jpeg)
+![](/img/AdobeStock_135482278.jpeg)
 
 ![](/img/AdobeStock_80822565.jpeg)
         
