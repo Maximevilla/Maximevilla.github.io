@@ -24,14 +24,14 @@ description: Maxim's Webpage
 # List of links in the navigation bar
 navbar-links:
   Home: index
-  Downloads: download/
+  Git: https://github.com/Maximevilla
   Documentation: http://scapy.readthedocs.io/
   Cooking: cookbook/
   Build your own tools: build-your-own-tools/
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/logo.png"
+avatar: "/img/letterV.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -71,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-#  email: "scapy@secdev.org"
+#  email: "maxime.villalongue@gmail.com"
 #  facebook:
   github: secdev
 #  twitter:
