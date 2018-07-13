@@ -10,7 +10,9 @@ Maxime
 <ul style="display:flex; list-style:none;">
     <!-- SVG files are text files: easy to update when needed -->
     <li style="display: inline; margin-left: 10px;">
-        <a href="https://pypi.python.org/pypi/scapy/"><img src="/img/badges/scapyversion.svg" alt="Scapy" /></a>
+        <a href='https://ptestmethod.readthedocs.io/en/latest/?badge=latest'>
+    <img src='//readthedocs.org/projects/ptestmethod/badge/?version=latest' alt='Documentation Status' />
+</a>
     </li>
     <li style="display: inline; margin-left: 10px;">
         <a href="https://pypi.python.org/pypi/scapy/"><img src="/img/badges/pyversions.svg" alt="Scapy versions" /></a>
