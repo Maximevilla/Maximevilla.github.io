@@ -26,7 +26,9 @@ Maxime
 About Me
 -----------
 
-![Image of Me](https://github.com/Maximevilla/Maximevilla.github.io/blob/master/img/business-man-avatar-vector-114-185058.png)
+.. image:: img/business-man-avatar-vector-114-185058.png
+  :alt: Image of Me
+  
 
 ### Who is Max
 
