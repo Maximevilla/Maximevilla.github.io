@@ -26,9 +26,9 @@ Maxime
 About Me
 -----------
 
-.. image:: img/business-man-avatar-vector-114-185058.png
-  :alt: Image of Me
-  
+![](img/business-man-avatar-vector-114-185058.png)
+
+
 
 ### Who is Max
 
