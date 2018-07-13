@@ -7,6 +7,7 @@ Maxime
 =====
 
 {% raw %}
+
 <ul style="display:flex; list-style:none;">
     <!-- SVG files are text files: easy to update when needed -->
     <li style="display: inline; margin-left: 10px;">
@@ -69,12 +70,7 @@ I've made some projects, not all of them are public. But my main one is to play 
 
 #### Slides
 
-*   [Scapy's PacSec/core05 slides](/conf/scapy_pacsec05.pdf) ([printable version](/conf/scapy_pacsec05.handout.pdf))
-*   [Scapy's Hack.lu 2005 slides](/conf/scapy_hack.lu.pdf)
-*   [Scapy's Summerschool Applied IT Security 2005 slides](/conf/scapy_Aachen.pdf)
-*   [Scapy's T2'2005 slides](/conf/scapy_T2.pdf)
-*   [Scapy's CanSecWest/core05 slides](/conf/scapy_csw05.pdf)
-*   [Scapy's LSM 2003 slides](/conf/scapy_lsm2003.pdf)
+*   
 
 
 
@@ -87,11 +83,11 @@ I've made some projects, not all of them are public. But my main one is to play 
 *   Liars
 *   Thieves
 *   And a lot more ! 
-
-**not for production ...**
+*   **not for production ...**
 
 
 {% raw %}
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     If you have too mmuch money, you can 
 <input type="hidden" name="cmd" value="_s-xclick">
