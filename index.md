@@ -32,68 +32,41 @@ About Me
 
 ### Who is Max
 
-I am a man born in [Andorra](http://visitandorra.com) and actually living in France. I started my life as a cook and now maiking my way to the IT world. It is a great experience and a daily challenging field. 
+I am a man born in [Andorra](http://visitandorra.com) and actually living in France. I started my life as a cook and now making my way threw the IT world. It is a great experience and a daily challenging field. 
 
 ### What makes Max 
 
-A lot of coffee ! I need it in a daily basis. First, with most other tools, you won't build something the author did not imagine. These tools have been built for a specific goal and can't deviate much from it. For example, an ARP cache poisoning program won't let you use double 802.1q encapsulation. Or try to find a program that can send, say, an ICMP packet with padding (I said padding, not payload, see?). In fact, each time you have a new need, you have to build a new tool.
-
-Second, they usually confuse decoding and interpreting. Machines are good at decoding and can help human beings with that. Interpretation is reserved for human beings. Some programs try to mimic this behavior. For instance, they say "this port is open" instead of "I received a SYN-ACK". Sometimes they are right. Sometimes not. It's easier for beginners, but when you know what you're doing, you keep on trying to deduce what really happened from the program's interpretation to make your own, which is hard because you lost a big amount of information. And you often end up using tcpdump -xX to decode and interpret what the tool missed.
-
-Third, even programs which only decode do not give you all the information they received. The network's vision they give you is the one their author thought was sufficient. But it is not complete, and you have a bias. For instance, do you know a tool that reports the padding?
-
-Scapy tries to overcome those problems. It enables you to build exactly the packets you want. Even if I think stacking a 802.1q layer on top of TCP has no sense, it may have some for somebody else working on some product I don't know. Scapy has a flexible model that tries to avoid such arbitrary limits. You're free to put any value you want in any field you want and stack them like you want. You're an adult after all.
-
-In fact, it's like building a new tool each time, but instead of dealing with a hundred line C program, you only write 2 lines of Scapy.
-
-After a probe (scan, traceroute, etc.) Scapy always gives you the full decoded packets from the probe, before any interpretation. That means that you can probe once and interpret many times, ask for a traceroute and look at the padding for instance.
+A lot of coffee ! I need it in a daily basis. Nevertheless I love Spanish ham, French cheese and having a walk around, if there is a Mountain around you should find me there.
 
 Max's Project
 -------------
 
-Scapy runs natively on Linux, and on most Unixes with libpcap, libdnet and their respective python wrapper (see [scapy's installation page](http://scapy.readthedocs.io/en/latest/installation.html)).
-The same code base now runs natively on both Python 2 and Python 3.
+I've made some projects, not all of them are public. But my main one is to play with all the IT tools, frameworks, OS's and Infrastructures.
 
-* Scapy ≥ 2.4.x needs Python2 ≥ 2.7, or Python3 ≥ 3.4.
-* Scapy ≥ 2.x needs Python2 ≥ 2.7.
-* Scapy 1.x needs Python2 ≥ 2.5.  Scapy 1.x is now deprecated.
+* SwitchPort monitoring tool in Python
+* Custom WebApp for Doctors (Gesdoc), but none of them was intersted. Project abandoned.
+* Exploration of the Andorran Internet (Many poeple has many things to fix !).
 
 ### Download
 
-*   [Development repository](https://github.com/secdev/scapy/)
-*   [Scapy 2.4.0](https://github.com/secdev/scapy/archive/v2.4.0.zip)
-*   [PyPI](https://pypi.python.org/pypi/scapy/)
+*   Nothing Yet
+
 
 ### Related projects
 
-*   [Scapytain](http://www.secdev.org/projects/scapytain/): a web application to store, organize and run test campaigns on top of Scapy
-*   [UTscapy](http://www.secdev.org/projects/UTscapy/): Unit Testing with scapy (integrated with Scapy 2.x)
-*   [WifiTap](http://sid.rstack.org/index.php/Wifitap_EN): Wi-Fi traffic injection
+*   ADAI - Andorran Database About Internet
 
 ### Other
-
-An independent fork of Scapy was created from v2.2.0 in 2015, aimed at supporting only Python3 ([scapy3k](http://bit.ly/2rA7crb)). The fork diverged, did not follow evolutions and fixes, and has had its own life without contributions back to Scapy. Unfortunately, it has been packaged as python3-scapy in some distributions, and as scapy-python3 on PyPI leading to confusion amongst users. It should not be the case anymore soon.  Scapy supports Python3 in addition to Python2 since 2.4.0. Scapy v2.4.0 should be favored as the official Scapy code base. The fork will soon be renamed soon to avoid further confusion.
 
 
 ### Help, documentation
 
-#### Mailing-list
-
-Send questions, bug reports, suggestions, ideas, cool usages of Scapy, etc. To avoid spam, you must subscribe to the mailing list to post.
-
-*   To subscribe to the mailing-list, send a mail to scapy.ml-subscribe(at)secdev.org
-*   To send a mail to the mailing-list: scapy.ml(at)secdev.org
 
 #### Documents
 
-*   [**Official Online HTML documentation**](http://scapy.readthedocs.io/)
-*   [Security Power Tools](http://www.oreilly.com/catalog/9780596009632/) where Philippe Biondi wrote a complete chapter about Scapy.
-*   [Quick demo: an interactive session](/demo/)
-*   [Building your own tools with Scapy](/build-your-own-tools/)
-*   [Scapy's installation page](http://scapy.readthedocs.io/en/latest/installation.html)
-*   You will also find an article in the French [Linux Magazine #52](http://www.linuxmag-france.org/produit.php?produit=107)
-*   [Report bugs/wishes/patches here](https://github.com/secdev/scapy/issues/new)
-*   [Active tickets here](https://github.com/secdev/scapy/issues)
+*   [A part of my brain](https://ptestmethod.readthedocs.io)
+*   [ADAI](Maximevilla.github.io/ivre_report_AS6752)
+
 
 #### Slides
 
@@ -104,28 +77,19 @@ Send questions, bug reports, suggestions, ideas, cool usages of Scapy, etc. To a
 *   [Scapy's CanSecWest/core05 slides](/conf/scapy_csw05.pdf)
 *   [Scapy's LSM 2003 slides](/conf/scapy_lsm2003.pdf)
 
-#### Other documents on Scapy :
 
-*   A Scapy tutorial: [Packet Wizardry: Ruling the Network with Python](http://packetstorm.linuxsecurity.com/papers/general/blackmagic.txt) by Rob klein Gunnewiek.
-*   [(now outdated) Scapy installation on OpenBSD 3.8 howto](http://pierre.droids-corp.org/scapy/README.openbsd)
-
-### Development
-
-Scapy development uses [Git](https://git-scm.com/) version control system. Scapy reference repository is at [https://github.com/secdev/scapy/](https://github.com/secdev/scapy/). It provides a ticket management service that I use to avoid forgetting patches or bugs.
 
 #### Ongoing developments
 
-*   IPv6
-*   Session management
-*   Bluetooth
-*   ...
+*   
 
 #### Known bugs
 
-*   Link layer not well managed yet
-*   DNS packets not reassembled exactly as the original (no compression used)
-*   May miss packets under heavy load
-*   BPF filters do not work on PPP interfaces
+*   Liars
+*   Thieves
+*   And a lot more ! 
+
+**not for production ...**
 
 
 {% raw %}
