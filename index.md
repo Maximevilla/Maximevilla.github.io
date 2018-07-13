@@ -26,6 +26,8 @@ Maxime
 About Me
 -----------
 
+![Image of Me](https://github.com/Maximevilla/Maximevilla.github.io/blob/master/img/business-man-avatar-vector-114-185058.png)
+
 ### Who is Max
 
 I am a man born in [Andorra](http://visitandorra.com) and actually living in France. I started my life as a cook and now maiking my way to the IT world. It is a great experience and a daily challenging field. 
