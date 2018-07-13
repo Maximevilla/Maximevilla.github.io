@@ -1,9 +1,9 @@
 ---
-title: Scapy
+title: Maxime
 date: 2018
 ---
 
-Scapy
+Maxime
 =====
 
 {% raw %}
@@ -24,14 +24,14 @@ Scapy
 </ul>
 
 
-About Scapy
+About Me
 -----------
 
-### What is Scapy
+### Who is Max
 
 Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.). It also performs very well at a lot of other specific tasks that most other tools can't handle, like sending invalid frames, injecting your own 802.11 frames, combining technics (VLAN hopping+ARP cache poisoning, VOIP decoding on WEP encrypted channel, ...), etc. See [interactive tutorial](http://scapy.readthedocs.io/en/latest/#interactive-tutorial) and [the quick demo: an interactive session (some examples may be outdated)](/demo/).
 
-### What makes scapy different from most other networking tools
+### What makes Max 
 
 First, with most other tools, you won't build something the author did not imagine. These tools have been built for a specific goal and can't deviate much from it. For example, an ARP cache poisoning program won't let you use double 802.1q encapsulation. Or try to find a program that can send, say, an ICMP packet with padding (I said padding, not payload, see?). In fact, each time you have a new need, you have to build a new tool.
 
@@ -45,7 +45,7 @@ In fact, it's like building a new tool each time, but instead of dealing with a 
 
 After a probe (scan, traceroute, etc.) Scapy always gives you the full decoded packets from the probe, before any interpretation. That means that you can probe once and interpret many times, ask for a traceroute and look at the padding for instance.
 
-Scapy Project
+Max's Project
 -------------
 
 Scapy runs natively on Linux, and on most Unixes with libpcap, libdnet and their respective python wrapper (see [scapy's installation page](http://scapy.readthedocs.io/en/latest/installation.html)).
