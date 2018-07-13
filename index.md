@@ -65,7 +65,7 @@ I've made some projects, not all of them are public. But my main one is to play 
 #### Documents
 
 *   [A part of my brain](https://ptestmethod.readthedocs.io)
-*   [ADAI](Maximevilla.github.io/ivre_report_AS6752)
+*   [ADAI](Maximevilla.github.io/ivre_report_AS6752.html)
 
 
 #### Slides
