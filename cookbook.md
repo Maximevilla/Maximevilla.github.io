@@ -14,15 +14,15 @@ The author has worked with the greatest chefs and studied in the best cooking sc
 
 #### Here are some of the dishes you could learn to prepare.
 
-The pasta is a survivor knowledge.
+* The pasta is a survivor knowledge.
 
 ![](/img/vitchakorn-koonyosying-527301-unsplash.jpg)
 
-What about a simple potato Gratin ?
+* What about a simple potato Gratin ?
 
 ![](/img/AdobeStock_135482278.jpeg)
 
-Or just a bit of lamb ?
+* Or just a bit of lamb ?
 
 ![](/img/AdobeStock_80822565.jpeg)
         
