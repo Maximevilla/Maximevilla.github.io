@@ -25,7 +25,7 @@ description: Maxim's Webpage
 navbar-links:
   Home: index
   Git: https://github.com/Maximevilla
-  Documentation: http://scapy.readthedocs.io/
+  Documentation: https://ptestmethod.readthedocs.io/
   Cooking: cookbook/
   Build your own tools: build-your-own-tools/
 
