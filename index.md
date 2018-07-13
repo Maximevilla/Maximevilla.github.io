@@ -10,18 +10,15 @@ Maxime
 <ul style="display:flex; list-style:none;">
     <!-- SVG files are text files: easy to update when needed -->
     <li style="display: inline; margin-left: 10px;">
-        <a href='https://ptestmethod.readthedocs.io/en/latest/?badge=latest'>
+        <a href='https://ptestmethod.readthedocs.io/'>
     <img src='//readthedocs.org/projects/ptestmethod/badge/?version=latest' alt='Documentation Status' />
 </a>
     </li>
     <li style="display: inline; margin-left: 10px;">
-        <a href="https://pypi.python.org/pypi/scapy/"><img src="/img/badges/pyversions.svg" alt="Scapy versions" /></a>
+        <a href=""><img src="https://img.shields.io/badge/InfoSec-Pentester-brightgreen.svg" alt="InfoSec-Pentester" /></a>
     </li>
     <li style="display: inline; margin-left: 10px;">
-        <a href="https://github.com/secdev/scapy/blob/master/LICENSE"><img src="/img/badges/gplv2.svg" alt="GPLv2" /></a>
-    </li>
-    <li style="display: inline; margin-left: 10px;">
-        <a href="https://gitter.im/secdev/scapy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="/img/badges/gitter.svg" alt="Join the chat at https://gitter.im/secdev/scapy" /></a>
+        <a href="mailto:maxime.villalongue@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-blue.svg" alt="ContactMe" /></a>
     </li>
 </ul>
 
@@ -31,7 +28,7 @@ About Me
 
 ### Who is Max
 
-Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.). It also performs very well at a lot of other specific tasks that most other tools can't handle, like sending invalid frames, injecting your own 802.11 frames, combining technics (VLAN hopping+ARP cache poisoning, VOIP decoding on WEP encrypted channel, ...), etc. See [interactive tutorial](http://scapy.readthedocs.io/en/latest/#interactive-tutorial) and [the quick demo: an interactive session (some examples may be outdated)](/demo/).
+I am a man born in [Andorra](http://visitandorra.com) and actually living in France. I started my life as a cook and now maiking my way to the IT world. It is a great experience and a daily challenging field. 
 
 ### What makes Max 
 
