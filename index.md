@@ -46,7 +46,7 @@ I've made some projects, not all of them are public. But my main one is to play 
 
 * SwitchPort monitoring tool in Python
 * Custom WebApp for Doctors (Gesdoc), but none of them was intersted. Project abandoned.
-* Exploration of the Andorran Internet (Many poeple has many things to fix !).
+* Exploration of the Andorran Internet.
 
 ### Download
 
@@ -86,10 +86,10 @@ I've made some projects, not all of them are public. But my main one is to play 
 *   **not for production ...**
 
 
-{% raw %}
+
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    If you have too mmuch money, you can 
+    If you have money left, you can 
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="EG567QA4QFWKQ">
 <input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal, le réflexe sécurité pour payer en ligne">
