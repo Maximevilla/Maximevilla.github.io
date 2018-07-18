@@ -27,12 +27,12 @@ Let's have a look at it.
 
 ![](/img/IVRE-AddressSpace.jpeg)
 
-* and with the ports ?
+* And with the ports ?
 
 ![](/img/IVRE-IPsPorts.jpeg)
 
 
-This tells nothing special to us. But we already know that only 10 % of the IPRange responds to a ping. Although, there are some no responding hosts ith open ports. 
+This tells nothing special to us. But we already know that only 10 % of the IPRange responds to a ping. Although, there are some no responding hosts with open ports. 
 
 We could dive further, trying to check how many hosts use certificates. How many don't already use only https for example.What are the services exposed.
 
