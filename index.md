@@ -45,7 +45,7 @@ Max's Project
 I've made some projects, not all of them are public. But my main one is to play with all the IT tools, frameworks, OS's and Infrastructures.
 
 * SwitchPort monitoring tool in Python
-* Custom WebApp for Doctors (Gesdoc), but none of them was intersted. Project abandoned.
+* Custom WebApp for Doctors (Gesdoc), but none of them was interested. Project abandoned.
 * Exploration of the Andorran Internet.
 
 ### Download
@@ -56,6 +56,7 @@ I've made some projects, not all of them are public. But my main one is to play 
 ### Related projects
 
 *   [Andorran Internet](https://maximevilla.github.io/AndorranInternet)
+
 ### Other
 
 
