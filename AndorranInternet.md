@@ -25,11 +25,11 @@ Let's have a look at it.
 >Let's first have a look at the used address space.
 >
 
-![](/img/VRE-AddressSpace.svg)
+![](/img/VRE-AddressSpace.jpeg)
 
 * and with the ports ?
 
-![](/img/IVRE-IPsPorts.svg)
+![](/img/IVRE-IPsPorts.jpeg)
 
 
 This tells nothing special to us. But we already know that only 10 % of the IPRange responds to a ping. Although, there are some no responding hosts ith open ports. 
