@@ -1,9 +1,9 @@
 ---
-title: Andorran Internet - LookLike
+title: Andorran Internet
 date: 2018-07-18 14:00:00
 ---
 
-### How Looks the Andorra on the Internet ?
+### How Looks Andorra on the Internet ?
 
 First, let's take the Andorran netRange and put it on the entire IPv4 range. For that we will use the Hilbert curve. For that I've used the tool from this repo https://github.com/measurement-factory/ipv4-heatmap.
 
