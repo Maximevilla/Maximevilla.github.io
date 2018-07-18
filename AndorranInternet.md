@@ -25,7 +25,7 @@ Let's have a look at it.
 >Let's first have a look at the used address space.
 >
 
-![](/img/VRE-AddressSpace.jpeg)
+![](/img/IVRE-AddressSpace.jpeg)
 
 * and with the ports ?
 
