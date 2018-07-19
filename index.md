@@ -96,4 +96,7 @@ I've made some projects, not all of them are public. But my main one is to play 
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+or
+
+ETH 0x8317975f81A8f23d368c75B8F4EAeF0e8c64198C
 {% endraw %}
