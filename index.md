@@ -33,11 +33,11 @@ About Me
 
 ### Who is Max
 
-I am a man born in [Andorra](http://visitandorra.com) and actually living in France. I started my life as a cook and now making my way threw the IT world. It is a great experience and a daily challenging field. 
+I am a man born in [Andorra](http://visitandorra.com) and actually living in France. I started my life as a cook and now making my way through the IT world. It is a great experience and a daily challenging field. 
 
 ### What makes Max 
 
-A lot of coffee ! I need it in a daily basis. Nevertheless I love Spanish ham, French cheese and having a walk around, if there is a Mountain around you should find me there.
+A lot of coffee ! I need it in a daily basis. Nevertheless I love Spanish ham, French cheese and having a walk around, if there is a Mountain you should find me there.
 
 Max's Project
 -------------
