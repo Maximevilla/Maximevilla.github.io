@@ -32,9 +32,11 @@ Let's have a look at it.
 ![](/img/IVRE-IPsPorts.jpeg)
 
 
-This tells nothing special to us. But we already know that only 10 % of the IPRange responds to a ping. Although, there are some no responding hosts with open ports. 
+We already know that only 10 % of the IPRange responds to a ping. Although, there are some no responding hosts with open ports. 
 
 We could dive further, trying to check how many hosts use certificates. How many already use only https. Or, what are the services exposed ?
+
+## Just a look ! I promise...
 
 For that you could probably start to search [there](https://www.shodan.io/report/Ox9MLkNM). Looking at that report, one of the things that blinks to us is that an optician with one shop has 3564 hosts up. That's for sure something that deserves some investigation. So let's have a look.
 
@@ -47,9 +49,7 @@ country:ad org:"Guineu Optica Companyia SL"
 As a result we get :
 
 | Owner |Andorra | Guineu Optica Companyia SL
-
 | ------------- |:-------------:| -----:|
-
 | Qty | 24,352 | 3,564 |
 
 
