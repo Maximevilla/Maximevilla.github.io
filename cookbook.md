@@ -27,6 +27,8 @@ The author has worked with the greatest chefs and studied in the best cooking sc
 * Or just a bit of lamb ?
 
 ![](/img/AdobeStock_80822565.jpeg)
-        
+     
+{% raw %}        
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed" data-gumroad-product-id="jwdRX"><a href="https://gumroad.com/l/jwdRX">Loading...</a></div>
+{% endraw %}

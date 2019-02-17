@@ -22,5 +22,7 @@ toute la méthodologie est présente tout comme l’essentiel des outils est dé
 l’étrier. N’hésitez donc pas à vous construire un laboratoire afin de vous entraîner et progresser. Un chapitre
 est dédié à la création d’un laboratoire.
 
+{% raw %}
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed" data-gumroad-product-id="fmYdX"><a href="https://gumroad.com/l/fmYdX">Loading...</a></div>
+{% endraw %}
