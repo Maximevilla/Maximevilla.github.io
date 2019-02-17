@@ -24,5 +24,5 @@ est dédié à la création d’un laboratoire.
 
 {% raw %}
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-gumroad-product-id="fmYdX"><a href="https://gumroad.com/l/fmYdX">Loading...</a></div>
+<div class="gumroad-product-embed" data-gumroad-product-id="fmYdX"><a href="https://gumroad.com/l/fmYdX">Boutique</a></div>
 {% endraw %}
